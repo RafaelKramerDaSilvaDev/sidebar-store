@@ -10,6 +10,26 @@ export function PageWithSidebar() {
           <Input />
         </div>
       </Sidebar>
+      <div className="container-cards">
+        <div className="card" />
+        <div className="card" />
+        <div className="card" />
+        <div className="card" />
+        <div className="card" />
+        <div className="card" />
+        <div className="card" />
+        <div className="card" />
+        <div className="card" />
+        <div className="card" />
+        <div className="card" />
+        <div className="card" />
+        <div className="card" />
+        <div className="card" />
+        <div className="card" />
+        <div className="card" />
+        <div className="card" />
+        <div className="card" />
+      </div>
     </S.PageWithSidebar>
   );
 }
